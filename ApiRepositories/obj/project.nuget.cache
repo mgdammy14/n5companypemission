@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4WBBZuR5dSLrSTJtUhLJEbVgLxuQn74T464vHozLrH8B58hlfhv/NcZnjTLwsn64de6rJUcQzVRALep5Hb0HQ==",
+  "success": true,
+  "projectFilePath": "/Users/gonzalopingo/Desktop/n5company/ApiRepositories/ApiRepositories.csproj",
+  "expectedPackageFiles": [
+    "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

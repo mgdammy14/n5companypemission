@@ -1,0 +1,17 @@
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiUnitOfWork.deps.json
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiUnitOfWork.dll
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiModel.dll
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiRepositories.dll
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiRepositories.pdb
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/bin/Debug/net6.0/ApiModel.pdb
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.AssemblyInfo.cs
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.csproj.CopyComplete
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.dll
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/refint/ApiUnitOfWork.dll
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Desktop/n5company/ApiUnitOfWork/obj/Debug/net6.0/ref/ApiUnitOfWork.dll

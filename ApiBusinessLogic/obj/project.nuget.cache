@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "719Ys81/E/sEziV+2e/HP8hK7dt1txvBwIRyPJ8Dzh3yQk+DRWxnc8Wuwxbo144nCTSPjCrUF44OOuoMQCAYAQ==",
+  "success": true,
+  "projectFilePath": "/Users/gonzalopingo/Desktop/n5company/ApiBusinessLogic/ApiBusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

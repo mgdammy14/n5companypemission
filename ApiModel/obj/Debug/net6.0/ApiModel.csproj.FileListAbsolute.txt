@@ -1,0 +1,12 @@
+/Users/gonzalopingo/Desktop/n5company/ApiModel/bin/Debug/net6.0/ApiModel.deps.json
+/Users/gonzalopingo/Desktop/n5company/ApiModel/bin/Debug/net6.0/ApiModel.dll
+/Users/gonzalopingo/Desktop/n5company/ApiModel/bin/Debug/net6.0/ApiModel.pdb
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.AssemblyInfo.cs
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.dll
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/refint/ApiModel.dll
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ApiModel.pdb
+/Users/gonzalopingo/Desktop/n5company/ApiModel/obj/Debug/net6.0/ref/ApiModel.dll
